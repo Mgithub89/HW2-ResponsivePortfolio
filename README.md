@@ -34,4 +34,4 @@ View the [deployed-app](https://mgithub89.github.io/HW2-ResponsivePortfolio/)
 
 * Must properly utilize Bootstrap components and grid system.
 
-![min req](images/Screenshot2020-09-11-134154)
+![min req](images/Screenshot2020-09-11-134154.png)
