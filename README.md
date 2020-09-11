@@ -1,5 +1,6 @@
 # Responsive Portfolio.
-view the[github page](https://github.com/Mgithub89/HW2-ResponsivePortfolio)
+View the [project-page](https://github.com/Mgithub89/HW2-ResponsivePortfolio)
+View the [deployed-app](https://mgithub89.github.io/HW2-ResponsivePortfolio/)
 ## About The Project
 ---
    *The objective of this project is creating a responsive portfolio that works well on variety of devices or screen sizes by using _Bootstrap css framework_ and grid system based on the given three different screen shoot portfolio pages on different screen size and based on the given minimum requirements about this this project. 
@@ -32,3 +33,5 @@ view the[github page](https://github.com/Mgithub89/HW2-ResponsivePortfolio)
 
 
 * Must properly utilize Bootstrap components and grid system.
+
+![min req](images/Screenshot2020-09-11-134154)
