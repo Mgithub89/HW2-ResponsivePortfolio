@@ -4,7 +4,7 @@ View the [project-page](https://github.com/Mgithub89/HW2-ResponsivePortfolio)
 View the [deployed-app](https://mgithub89.github.io/HW2-ResponsivePortfolio/)
 ## About The Project
 ---
-   *The objective of this project is creating a responsive portfolio that works well on variety of devices or screen sizes by using _Bootstrap css framework_ and grid system based on the given three different screen shoot portfolio pages on different screen size and based on the given minimum requirements about this project. 
+   The objective of this project is creating a responsive portfolio site with a navbar, a responsive layout and responsive images that works well on variety of devices or screen sizes by using **Bootstrap** and grid system based on the given three different screen shoot portfolio pages on different screen size and based on the given minimum requirements about this project. 
 
 ###  Minimum Requirements
 
@@ -46,7 +46,7 @@ View the [deployed-app](https://mgithub89.github.io/HW2-ResponsivePortfolio/)
  External css(style.css) used to to change the style and layout of the pages like :
    * **background-image** for body.
    * **box-shadow** for footer.
-   * **font-family** for h1 and navbar-brand.
+   * **font-family** for h1 and navbar elements.
    * **hight and width** for all images.
    * **max-width** for portfolio page and about page.
 
