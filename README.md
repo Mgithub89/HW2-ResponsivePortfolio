@@ -1,7 +1,7 @@
 # Responsive Portfolio.
 View the [project-page](https://github.com/Mgithub89/HW2-ResponsivePortfolio)
 
-View the [deployed-app](https://mgithub89.github.io/HW2-ResponsivePortfolio/)
+View the [deployed-app](https://mgithub89.github.io/Responsive_Portfolio/)
 
 ## Table of contents
    * About The project
