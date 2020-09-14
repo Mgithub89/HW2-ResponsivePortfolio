@@ -1,15 +1,26 @@
 footer {
     box-shadow: 0px -10px teal;
+    position: absolute;
+    left: 0;
+    bottom: 0;   
+    width: 100%;
+
+}
+html {
+    position: relative;
+    min-height: 100%;
 }
 
 body {
     background-image: url(https://image.shutterstock.com/image-illustration/black-white-abstract-background-diamond-260nw-691648363.jpg);
     background-size: cover;
+    margin: 0 0 100px;
+
 }
 
 h1,
 .navbar-brand {
-    font-family: 'Noto Serif', serif;
+    font-family: Georgia,serif
 }
 
 .figure-img {
@@ -18,13 +29,15 @@ h1,
 }
 
 #metages {
-    width: 13rem;
-    height: 14rem;
+    width: 15rem;
+    height: 18rem;
 }
 #portfolio {
     max-width: 70%;
+    margin: 40px 20px;
 }
 #about {
-    max-width: 700px;
-    
+    max-width: 85%;
+    margin: 40px 20px;
 }
+
