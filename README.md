@@ -4,13 +4,13 @@ View the [project-page](https://github.com/Mgithub89/HW2-ResponsivePortfolio)
 View the [deployed-app](https://mgithub89.github.io/Responsive_Portfolio/)
 
 ## Table of contents
-   * About The project
-   * Minimum Requirements
-   * Sample-ScreenShot Image
-   * HTML
-   * CSS
-   * Built With
-   * Contact
+   * [About The project](###About-The-Project)
+   * [Minimum Requirements](###Minimum-Requirements)
+   * [Sample-ScreenShot Image](###Sample-ScreenShot)
+   * [HTML](###HTML)
+   * [CSS](###CSS)
+   * [Built With](###Built-With)
+   * [Contact](###Contact)
 
 ### About The Project
 ---
@@ -37,7 +37,7 @@ View the [deployed-app](https://mgithub89.github.io/Responsive_Portfolio/)
 * Must properly utilize Bootstrap components and grid system.
 
 ### Sample-ScreenShot Image
-![min req](Assets/images/sample-screenshot.jpg)
+![min req](Assets/images/contact-page.jpg)
 
 ### HTML
 * **index.html** - for About/Home page.
