@@ -4,13 +4,13 @@ View the [project-page](https://github.com/Mgithub89/HW2-ResponsivePortfolio)
 View the [deployed-app](https://mgithub89.github.io/Responsive_Portfolio/)
 
 ## Table of contents
-   * [About The project](###About-The-Project)
-   * [Minimum Requirements](###Minimum-Requirements)
-   * [Sample-ScreenShot Image](###Sample-ScreenShot)
-   * [HTML](###HTML)
-   * [CSS](###CSS)
-   * [Built With](###Built-With)
-   * [Contact](###Contact)
+   * [About The project](#About-The-Project)
+   * [Minimum Requirements](#Minimum-Requirements)
+   * [Sample-ScreenShot Image](#Sample-ScreenShot)
+   * [HTML](#HTML)
+   * [CSS](#CSS)
+   * [Built With](#Built-With)
+   * [Contact](#Contact)
 
 ### About The Project
 ---
