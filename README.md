@@ -6,7 +6,7 @@ View the [deployed-app](https://mgithub89.github.io/Responsive_Portfolio/)
 ## Table of contents
    * [About The project](#About-The-Project)
    * [Minimum Requirements](#Minimum-Requirements)
-   * [Sample-ScreenShot Image](#Sample-ScreenShot)
+   * [Sample-ScreenShot Image](#Sample-ScreenShot-Image)
    * [HTML](#HTML)
    * [CSS](#CSS)
    * [Built With](#Built-With)
