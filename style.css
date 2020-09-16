@@ -35,7 +35,8 @@ h1,
 }
 footer {
     box-shadow: 0px -10px teal;
-    position: absolute;
+    position: fixed;
+    bottom: 0;
     width: 100%;
 
 }
