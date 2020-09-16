@@ -36,8 +36,8 @@ View the [deployed-app](https://mgithub89.github.io/Responsive_Portfolio/)
 
 * Must properly utilize Bootstrap components and grid system.
 
-### Sample-ScreenShot Image
-![min req](Assets/images/contact-page.jpg)
+### Sample-ScreenShot(contact page small screen).
+![min req](Assets/images/contactp-screenshot.jpg)
 
 ### HTML
 * **index.html** - for About/Home page.
