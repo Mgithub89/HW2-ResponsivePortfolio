@@ -1,11 +1,4 @@
-footer {
-    box-shadow: 0px -10px teal;
-    position: absolute;
-    left: 0;
-    bottom: 0;   
-    width: 100%;
 
-}
 html {
     position: relative;
     min-height: 100%;
@@ -40,4 +33,9 @@ h1,
     max-width: 85%;
     margin: 40px 20px;
 }
+footer {
+    box-shadow: 0px -10px teal;
+    position: absolute;
+    width: 100%;
 
+}
