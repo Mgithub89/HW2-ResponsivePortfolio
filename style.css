@@ -12,7 +12,8 @@ body {
 }
 
 h1,
-.navbar-brand {
+.navbar-brand,
+h5 {
     font-family: Georgia,serif
 }
 
@@ -43,4 +44,10 @@ footer {
     bottom: 0;
     width: 100%;
 
+}
+.contact-button {
+    width: 100%;
+}
+h5 {
+ color: rgb(55, 0, 255);
 }
