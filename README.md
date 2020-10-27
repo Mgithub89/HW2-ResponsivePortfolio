@@ -61,6 +61,9 @@ View the [deployed-app](https://mgithub89.github.io/Responsive_Portfolio/)
  * Bootstrap components and Grid system.
  * Font-awesome.
 
+ ### License
+  * MIT
+
  ### Contact
  Metages Worku - [metages09@gmail.com](mailto:metages09@gmail.com)
 
