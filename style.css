@@ -27,6 +27,7 @@ h5 {
     height: 18rem;
 }
 #portfolio {
+    background-color: darkcyan;
     max-width: 70%;
     /* margin: 40px 20px; */
 }
